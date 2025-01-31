@@ -34,13 +34,7 @@ pip install user-agents
 pip install pyfiglet
 ```
 
-3. Clone the repository:
-```bash
-git clone https://github.com/dedsecDS/dedsec-decoder
-cd dedsec-decoder
-```
-
-4. Installation:
+3. Installation:
 ```bash
 pip install dedsec-decode
 ```
