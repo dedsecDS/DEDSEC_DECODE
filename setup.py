@@ -5,7 +5,7 @@ here = pathlib.Path(__file__).parent.resolve()
 long_description = (here / "README.md").read_text(encoding="utf-8")
 
 setup(
-    name="dedsec-decoder",
+    name="dedsec-decode",
     version="1.0.0",
     packages=find_packages(include=['dedsec_decoder', 'dedsec_decoder.*']),
     python_requires=">=3.6",
