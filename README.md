@@ -1,11 +1,11 @@
 # DedSec Binary Decoder 🔰
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dedsecDS/dedsec-decoder/main/assets/dedsec_logo.png" alt="DedSec Logo" width="200"/>
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
-  [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/dedsecDS/dedsec-decoder)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/dedsecDS/dedsec-decoder)
+
 </div>
 
 ## 📝 Description
@@ -15,7 +15,7 @@ DedSec Binary Decoder is a binary encoding/decoding tool developed by the DedSec
 ## ⚙️ Quick Installation
 
 ```bash
-pip install dedsec-decoder
+pip install dedsec-decode
 ```
 
 ## 🛠️ Manual Installation (Linux/Termux)
@@ -42,7 +42,7 @@ cd dedsec-decoder
 
 4. Installation:
 ```bash
-pip install .
+pip install dedsec-decode
 ```
 
 ## 🚀 Usage
@@ -90,4 +90,4 @@ Developed by the DedSec community - 2025
 
 ---
 
-Let me know if you need further assistance! 🚀
+Need help? Join our Telegram community! 🚀
