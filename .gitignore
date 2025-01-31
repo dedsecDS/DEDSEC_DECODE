@@ -1,0 +1,4 @@
+*.tar.gz
+*.whl
+.dedsec_decoder.egg-info*
+dist/

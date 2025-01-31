@@ -1,0 +1,2 @@
+[console_scripts]
+DS_DECODE = dedsec_decoder.cli:main
