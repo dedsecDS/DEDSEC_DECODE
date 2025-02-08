@@ -23,7 +23,7 @@ class DisplayManager:
         ascii_art = custom_fig.renderText("DS-COD/DECOD")
         info = [
             "BY: DedSec",
-            "Youtube: ",
+            "Youtube: https://youtube.com/@dedsecassistant?si=5gp6rFkqQqcPV4ek ",
             "Github: github.com/dedsec"
         ]
         
